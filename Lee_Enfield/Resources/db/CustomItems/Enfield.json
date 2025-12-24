@@ -325,6 +325,29 @@
         "rcid": ""
       },
       "Weight": 1.1,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "8ec622c17502df08341f14a2",
+          "_max_count": 10,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "692e2f12c8c7cc41a93d9f5f",
+                  "692f0c77d8e04cd4a155c1c2",
+                  "692f0d4a782654cf5b55c1c4",
+                  "692f0e736e7727d27c55c1c8",
+                  "692f0ffe63a608e0ee55c1c9",
+                  "692f101c11959e9c7255c1cb"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
       "Recoil": -9,
       "Ergonomics": -14,
       "Accuracy": 1.31,

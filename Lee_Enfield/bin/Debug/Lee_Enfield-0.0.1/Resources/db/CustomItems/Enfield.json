@@ -61,6 +61,24 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
         {
+          "_name": "mod_magazine",
+          "_id": "63c388a62e825d20b87ed7a7",
+          "_parent": "68b192a29352f61e8d8f8d6d",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "694bf141fdb834a00f54cd5e"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
           "_name": "mod_stock",
           "_id": "25c15334d22715a223fe77d1",
           "_parent": "68b192a29352f61e8d8f8d6d",
@@ -289,6 +307,110 @@
           "barters": [
             {
               "count": 4401,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "694bf141fdb834a00f54cd5e": {
+    "itemTplToClone": "5ae0973a5acfc4001562206c",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Enfield/smle_mag.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.1,
+      "Cartridges": [
+        {
+          "_name": "cartridges",
+          "_id": "dc3487e3691cdd8b5e356d01",
+          "_parent": "8ec622c17502df08341f14a2",
+          "_max_count": 10,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "692e2f12c8c7cc41a93d9f5f",
+                  "692f0c77d8e04cd4a155c1c2",
+                  "692f0d4a782654cf5b55c1c4",
+                  "692f0e736e7727d27c55c1c8",
+                  "692f0ffe63a608e0ee55c1c9",
+                  "692f101c11959e9c7255c1cb"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "Recoil": -9,
+      "Ergonomics": -14,
+      "Accuracy": 1.31,
+      "ExtraSizeLeft": 2,
+      "Height": 1,
+      "Width": 3,
+      "Conflictingitems": []
+    },
+    "locales": {
+      "en": {
+        "name": "SMLE MK-3 10 RND internal box magazine",
+        "shortName": "SMLE",
+        "description": ""
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 14300,
+    "handbookPriceRoubles": 2900,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2000
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2000
+      }
+    ],
+    "masteries": false,
+    "traders": {
+      "JAEGER": {
+        "694beb67313d18bee354cd5d": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1970,
               "_tpl": "MONEY_ROUBLES"
             }
           ]

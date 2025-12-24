@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lee_Enfield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+33745958fda4f9d25d5f69079ae8d0855f2979ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+9662e3c9279787a0f8d5b73d09ff665d2cabebe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lee_Enfield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lee_Enfield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]

@@ -33,6 +33,7 @@
     {"key": "Ammunition/patron_raptor.bundle"},
     {"key": "Ammunition/patron_raptor_hollow.bundle"}    ,
     {"key": "Enfield/smle_stock.bundle"},
-    {"key": "Enfield/smle_barrel.bundle"}
+    {"key": "Enfield/smle_barrel.bundle"},
+    {"key": "Enfield/smle_mag.bundle"}
   ]
 }
