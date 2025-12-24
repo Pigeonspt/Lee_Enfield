@@ -29,3 +29,4 @@ G:\stuff\Escape From Tarkov stuff\aids 4.0\MODDING\Lee_Enfield\Lee_Enfield\bin\D
 G:\stuff\Escape From Tarkov stuff\aids 4.0\MODDING\Lee_Enfield\Lee_Enfield\bin\Debug\Lee_Enfield-0.0.1\Resources\db\CustomHideoutRecipes\303_Raptor.json
 G:\stuff\Escape From Tarkov stuff\aids 4.0\MODDING\Lee_Enfield\Lee_Enfield\bin\Debug\Lee_Enfield-0.0.1\Resources\db\CustomHideoutRecipes\303_Raptor_hollow.json
 G:\stuff\Escape From Tarkov stuff\aids 4.0\MODDING\Lee_Enfield\Lee_Enfield\bin\Debug\Lee_Enfield-0.0.1\Resources\db\CustomHideoutRecipes\303_Round_Nosed.json
+G:\stuff\Escape From Tarkov stuff\aids 4.0\MODDING\Lee_Enfield\Lee_Enfield\obj\Debug\Lee_Enfield.sourcelink.json

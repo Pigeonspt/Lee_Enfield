@@ -6,7 +6,7 @@
   ],
   "manifest": [
     {
-      "key": "marlin/weapon_marlin_m1895_mxlr_784x49_container.bundle",
+      "key": "Enfield/smle_container.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -31,6 +31,8 @@
     {"key": "Ammunition/patron_ball.bundle"},
     {"key": "Ammunition/patron_hollow.bundle"},
     {"key": "Ammunition/patron_raptor.bundle"},
-    {"key": "Ammunition/patron_raptor_hollow.bundle"}    
+    {"key": "Ammunition/patron_raptor_hollow.bundle"}    ,
+    {"key": "Enfield/smle_stock.bundle"},
+    {"key": "Enfield/smle_barrel.bundle"}
   ]
 }
