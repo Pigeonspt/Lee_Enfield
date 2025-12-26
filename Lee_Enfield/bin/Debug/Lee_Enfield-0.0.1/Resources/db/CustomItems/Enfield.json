@@ -56,7 +56,7 @@
               }
             ]
           },
-          "_required": false,
+          "_required": true,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -74,7 +74,7 @@
               }
             ]
           },
-          "_required": false,
+          "_required": true,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c4c4bdc2db4468b457e"
         },
@@ -92,7 +92,7 @@
               }
             ]
           },
-          "_required": false,
+          "_required": true,
           "_mergeSlotWithChildren": false,
           "_proto": "55d30c394bdc2dae468b4577"
         }
@@ -133,7 +133,7 @@
     "masteries": true,
     "traders": {
       "JAEGER": {
-        "694be13ef33755dd6854cd5b": {
+        "694dcdc76488f4d1de6db139": {
           "barterSettings": {
             "loyalLevel": 2,
             "unlimitedCount": true,
@@ -217,7 +217,7 @@
     "masteries": false,
     "traders": {
       "JAEGER": {
-        "694be13ef33755dd6854cd5b": {
+        "694dcdcc2a94772e636db13a": {
           "barterSettings": {
             "loyalLevel": 2,
             "unlimitedCount": true,
@@ -247,7 +247,7 @@
       "Recoil": -9,
       "Ergonomics": -14,
       "Accuracy": 1.31,
-      "ExtraSizeLeft": 2,
+      "ExtraSizeLeft": 3,
       "Height": 1,
       "Width": 3,
       "Conflictingitems": []
@@ -298,7 +298,7 @@
     "masteries": false,
     "traders": {
       "JAEGER": {
-        "694beb67313d18bee354cd5d": {
+        "694dcdd1a7f0b92ba26db13b": {
           "barterSettings": {
             "loyalLevel": 2,
             "unlimitedCount": true,
@@ -353,7 +353,7 @@
       "Accuracy": 1.31,
       "ExtraSizeLeft": 2,
       "Height": 1,
-      "Width": 3,
+      "Width": 1,
       "Conflictingitems": []
     },
     "locales": {
@@ -402,7 +402,7 @@
     "masteries": false,
     "traders": {
       "JAEGER": {
-        "694beb67313d18bee354cd5d": {
+        "694dcdd42d170737286db13c": {
           "barterSettings": {
             "loyalLevel": 2,
             "unlimitedCount": true,
