@@ -1,8 +1,9 @@
-﻿using System.Reflection;
+﻿using System.Collections.Generic;
+using System.Reflection;
+using System.Threading.Tasks;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
 namespace LeeEnfield;
@@ -27,8 +28,7 @@ public record ModMetadata : AbstractModMetadata
 
 
 [Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
-public class LeeEnfield(
-    WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
+public class LeeEnfield(WTTServerCommonLib.WTTServerCommonLib wttCommon) : IOnLoad
 {
     public async Task OnLoad()
     {
